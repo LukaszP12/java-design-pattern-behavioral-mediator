@@ -1,4 +1,4 @@
-package pl.piwowarski;
+package pl.piwowarski.ChatSystem;
 
 public class ChatUser extends User{
 
