@@ -1,4 +1,4 @@
-package pl.piwowarski;
+package pl.piwowarski.ChatSystem;
 
 public abstract class User {
     protected ChatMediator mediator;
